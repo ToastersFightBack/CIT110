@@ -1,0 +1,10 @@
+C:\Users\raze6\Desktop\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\raze6\Desktop\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\raze6\Desktop\Final\Final\bin\Debug\Final.exe.config
+C:\Users\raze6\Desktop\Final\Final\bin\Debug\Final.exe
+C:\Users\raze6\Desktop\Final\Final\bin\Debug\Final.pdb
+C:\Users\raze6\Desktop\Final\Final\bin\Debug\FinchAPI.dll
+C:\Users\raze6\Desktop\Final\Final\bin\Debug\HidSharp.dll
+C:\Users\raze6\Desktop\Final\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\raze6\Desktop\Final\Final\obj\Debug\Final.exe
+C:\Users\raze6\Desktop\Final\Final\obj\Debug\Final.pdb
